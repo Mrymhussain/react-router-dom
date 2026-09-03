@@ -1,4 +1,4 @@
-// src/components/PokemonDetails/PokemonDetails.jsx
+
 
 import { useParams } from "react-router";
 
